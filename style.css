@@ -1,0 +1,39 @@
+		html,body{
+			width: 50%;
+			margin: 0 auto;
+			font-style: monospace;
+			/*background-color: #ff000080;*/
+		}
+		.container{
+			width: 360px;
+			margin-top: 100px;
+		}
+		#inputField{
+			width: 300px;
+			height: 40px;
+			border: 1px solid black;
+			vertical-align: middle;
+			font-size: 30px;
+			vertical-align: middle;
+		}
+
+		#addTodo{
+			height: 45px ;
+			width: 50px;
+			border-width: 0;
+			border: 1px solid black;
+			vertical-align: middle;
+			font-size: 30px;
+
+		}
+		.to-dos{
+			margin-top: 25px;
+		}
+		.paragraph-styling{
+			margin: 0;
+			cursor: pointer;
+			font-size: 20px;
+		}
+		.to-dos{
+			margin-top: 25px;
+		}
